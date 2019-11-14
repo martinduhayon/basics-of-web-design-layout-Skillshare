@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800&display=swap');
+
+
+body, html{
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.h1{
+	font-weight: 800;
+	font-size: 50px;
+}
+
+.h3{
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.h4{
+	font-weight: 800;
+	font-size: 20px;
+}
+
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+	
+}
+
+
+.banner{
+	background-color: #007FFF;
+	heigh: 100vh;
+	padding: 0 20px;
+	
+	
+}
+ 
+.banner h1{
+	color: white;
+	margin: 14px 0 20px;
+	
+}
+
+.banner h3{
+	color: white;
+	margin: 0;
+	
+}
+
+
+.banner h4,
+.banner h4 a{
+	color: white;
+	margin: 0;
+	
+}
+
+.img1{}
+
+.img2{}
+
+.img3{}
+
+
+a.cta,
+button.cta{
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	background: #007FFF;
+	display: inline-block;
+	border: 10px solid rgba(0,127,255,.15);
+	padding: 20px 30px;
+	border-radius: 10px;
+	text-decoration: none;
+	
+	
+}
+
+a.cta.alt,
+button.cta.alt{
+	background-color: #FFD400;
+	border-color: rgba(0,0,0,.15);
+	
+
+	
+}
+
+
+
+
+
+
+
+
+/*<div class="banner">
+		<div class="wrapper">
+			<h4>Martin from <a href="https://www.google.com/earth/">Planet Earth</a> presents </h4>
+			<h1>Design Solutions<br/>
+			For Physical<br/>
+			& Digital Products</h1>
+			<h3>A holistic approach of problem solving from all design aspects of a design concept</h3>
+			<a class="cta-alt" href="#more-info">Read More</a>
+		</div>
+		<div class="img1"></div>
+		<div class="img2"></div>
+		<div class="img3"></div>
+	</div>
+	*/
+
